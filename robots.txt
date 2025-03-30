@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://olympic81stg.ppgac.com/sitemap.xml
